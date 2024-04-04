@@ -5,7 +5,7 @@ My name is Abhishek and I am a Developer.
 - 🔭 I’m currently working on MERN stack.
 - 🌱 Currently learning "How to land your first Job".
 - 📫 How to reach me: abhishek0wb@gmail.com
-- You can find me on [![LinkedIn][3.21]][3] and [![Twitter](https://img.shields.io/twitter/url/https/twitter.com/cloudposse.svg?style=social&label=Follow%20%40abhishek)](https://twitter.com/abhishek0wb)
+- You can find me on [![LinkedIn][3.21]][3] and [![Twitter](https://img.shields.io/twitter/url/https/twitter.com/cloudposse.svg?style=social&label=Follow%20%40abhishek0wb)](https://twitter.com/abhishek0wb)
 
 <!-- - 🤔 I’m looking for help with KaboomJs. -->
 
