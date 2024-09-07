@@ -1,8 +1,8 @@
 # Hello, folks! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px" height="30px"/>
-My Name is Abhishek and I am a Developer.
+My name is Abhishek Srivastava, and I am a Developer with a strong focus on Machine Learning, Python, and Web Development.
 
-- 🔭 I’m currently working on MERN stack.
-- 🌱 Currently learning "How to center a div".
+🔭 I’m currently working on building robust applications with the MERN stack while exploring advanced Python for machine learning.
+🌱 I’m always expanding my knowledge, with a keen interest in mastering full-stack development and enhancing data security practices.
 -  How to reach me: abhishek0wb@gmail.com
 -  You can find me on [![@abhishek0wb][3.21]][3] and [![Twitter](https://img.shields.io/twitter/url/https/twitter.com/cloudposse.svg?style=social&label=Follow%20%40abhishek0wb)](https://twitter.com/abhishek0wb)
 
